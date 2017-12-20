@@ -40,7 +40,7 @@
 [LinkedIn](https://de.linkedin.com/in/alexander-vikenfalk-6b993b42)
 
 #### Screenshots ####
-![Create Account](https://user-images.githubusercontent.com/16190870/34210227-66fd8926-e595-11e7-91fa-bbc1e447019e.png)
+![Create Account](https://user-images.githubusercontent.com/16190870/34210397-ffaee5ca-e595-11e7-9ea9-5b2962d6539a.png)
 ![Posts](https://user-images.githubusercontent.com/16190870/34210274-9a2d525e-e595-11e7-9e4c-a58aab9441fa.png)
 
 #### Other remarks ####
