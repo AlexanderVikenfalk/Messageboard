@@ -45,3 +45,5 @@
 
 #### Other remarks ####
 If the application doesn't show any messages on login, please update the page and they should show up.
+As of right now it misses some functions like editing and an user interface. 
+The pictures that are used on account creation are uploaded to firebase and stored but as of right now not mapped out anywhere within the application itself.
