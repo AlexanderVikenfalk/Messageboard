@@ -5,23 +5,23 @@
 #### School: Lernia YH
 
 #### About this project: 
-*This project was made as a school project. It had to fullfill the following requirements:
-*Handle post/resource. Ability to vote/comment on the posted resource.
-*Update should be realtime with Firebase event listeners.
-*App should use React as frontend.
-*App should use Redux handle state.
-*Only the admin and user who posted/commented should be able to edit/delete.
-*Firebase auth should be used, social login (Google, Facebook, etc) for extra credit.
-*There should be one or several admin-users, the rest should be regular users.
-*Admin should be able to edit/delete content and handle users.
-*Logic and application-state should be as high up as possible.
-*Components without logic should be stateless/functional components.
-*Should be deployed live and production ready.
-*App should be on GitHub and have a wellformated README.
-*Use composition and have atleast two HOCs that's not part of external library.
-*Should not leak info from development and be production ready.
-*Extended error handling. Errors should be shown in the UI.
-*Code layout and UI should have clear structure.
+This project was made as a school project. It had to fullfill the following requirements:
+* Handle post/resource. Ability to vote/comment on the posted resource.
+* Update should be realtime with Firebase event listeners.
+* App should use React as frontend.
+* App should use Redux handle state.
+* Only the admin and user who posted/commented should be able to edit/delete.
+* Firebase auth should be used, social login (Google, Facebook, etc) for extra credit.
+* There should be one or several admin-users, the rest should be regular users.
+* Admin should be able to edit/delete content and handle users.
+* Logic and application-state should be as high up as possible.
+* Components without logic should be stateless/functional components.
+* Should be deployed live and production ready.
+* App should be on GitHub and have a wellformated README.
+* Use composition and have atleast two HOCs that's not part of external library.
+* Should not leak info from development and be production ready.
+* Extended error handling. Errors should be shown in the UI.
+* Code layout and UI should have clear structure.
 
 #### Technologies used: 
 * **React.js** for overall functionality. 
